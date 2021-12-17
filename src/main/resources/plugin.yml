@@ -1,0 +1,6 @@
+name: ChaosCurrency
+version: '${project.version}'
+main: me.frxq15.chaoscurrency.ChaosCurrency
+api-version: 1.18
+authors: [ Frxq15 ]
+description: Currency plugin
